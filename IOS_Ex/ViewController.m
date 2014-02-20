@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#include "vector_delete.h"
 
 @interface ViewController ()
 
@@ -18,8 +19,13 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [self vectorTest];
 }
 
+- (void) vectorTest
+{
+    VectorDelete vdelete;
+}
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];

@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>xcySTL.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,26 @@
 			<true/>
 		</dict>
 		<key>4B1D39C8187873D2009E579B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BD01DC8187AFA2900727908</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BD01DD5187AFA2900727908</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BD01DEE187AFAFC00727908</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BD01DFB187AFAFC00727908</key>
 		<dict>
 			<key>primary</key>
 			<true/>

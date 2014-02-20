@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4B1D39A4187873D1009E579B"
-               BuildableName = "IOS_Ex.app"
-               BlueprintName = "IOS_Ex"
-               ReferencedContainer = "container:IOS_Ex.xcodeproj">
+               BlueprintIdentifier = "4BD01D91187AF92200727908"
+               BuildableName = "xcy_vector.dylib"
+               BlueprintName = "xcy_vector"
+               ReferencedContainer = "container:xcy_vector.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,32 +32,13 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4B1D39C8187873D2009E579B"
-               BuildableName = "IOS_ExTests.xctest"
-               BlueprintName = "IOS_ExTests"
-               ReferencedContainer = "container:IOS_Ex.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4BD01DFB187AFAFC00727908"
-               BuildableName = "xcySTLTests.xctest"
-               BlueprintName = "xcySTLTests"
-               ReferencedContainer = "container:IOS_Ex.xcodeproj">
+               BlueprintIdentifier = "4BD01DA4187AF92200727908"
+               BuildableName = "xcy_vectorTests.xctest"
+               BlueprintName = "xcy_vectorTests"
+               ReferencedContainer = "container:xcy_vector.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4B1D39A4187873D1009E579B"
-            BuildableName = "IOS_Ex.app"
-            BlueprintName = "IOS_Ex"
-            ReferencedContainer = "container:IOS_Ex.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -68,15 +49,6 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4B1D39A4187873D1009E579B"
-            BuildableName = "IOS_Ex.app"
-            BlueprintName = "IOS_Ex"
-            ReferencedContainer = "container:IOS_Ex.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -86,15 +58,6 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4B1D39A4187873D1009E579B"
-            BuildableName = "IOS_Ex.app"
-            BlueprintName = "IOS_Ex"
-            ReferencedContainer = "container:IOS_Ex.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
